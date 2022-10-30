@@ -1,3 +1,4 @@
+# How to extract text from a WebElements - Selenium
 import time
 import pandas as pd
 
